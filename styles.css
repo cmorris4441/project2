@@ -1,0 +1,180 @@
+Body{
+Font-family: Arial, Helvetica, sans-serif;
+Font-size:15px;
+Line-height:1.5;
+Padding:0;
+Margin:0;
+Background-color:#f5f5f5;
+}
+
+/* Global */
+.container{
+Width:80%;
+Margin:auto;
+Overflow:hidden;
+}
+
+Header ul{
+Margin:0;
+Padding:0;
+}
+
+.button_1{
+Height:38px;
+Background:#696969;
+Border:0;
+Padding-left:20px;
+Padding-right:20px;
+}
+
+/* Showcase */
+#showcase{
+Min-height:400px;
+Text-align:center;
+Color:#ffffff;
+Background-image: url('pexels-pixabay-36717.jpg');
+Background-repeat:no-repeat;
+Background-position:center;
+Background-position:fixed;
+Background-size: 1300px 700px;
+}
+
+/* Header **/
+Header{ 
+Padding-top:30px;
+Min-height:70px;
+Border-bottom:#ffffff 3px solid;
+}
+
+Header a{
+Text-decoration:none;
+Text-transform: uppercase;
+Font-size: 16px;
+Color:#000000;
+}
+
+Header li{
+Float:left;
+Display:inline;
+Padding: 0 20px 0 20px;
+}
+
+Header #branding{
+Float:left;
+}
+
+Header #branding h1{
+Margin:0;
+}
+
+Header nav{
+Float:right;
+Margin-top:10px;
+}
+
+Header .highlight, header .current a{
+
+Font-weight:bold;
+}
+
+Header a:hover{
+Font-weight:bold;
+}
+
+#showcase h1{
+Margin-top:100px;
+Font-size:55px;
+Margin-bottom:10px;
+}
+
+#showcase p{
+Font-size:20px;
+}
+
+#businessinquries{
+Background-color:#f5f5f5;
+Padding:15px;
+Border-top:#ffffff 3px solid;
+Border-bottom:#ffffff 3px solid;
+}
+
+#businessinquries h1{
+Float:left;
+}
+
+#businessinquries form{
+Float:right;
+Margin-top:15px;
+}
+
+#businessinquries input[type="email"]{
+Padding:4px;
+Height:25px;
+Width:250px;
+}
+
+#boxes{
+Margin-top:20px;
+Color:#000000;
+}
+
+#boxes .box{
+Float:left;
+Text-align: center;
+Width:30%;
+Padding:10px;
+}
+
+#boxes .box img{
+Width: 200px;
+}
+
+Article#main-col{
+Text-align: center;
+}
+
+/* Classes */ 
+ul#classes li{ 
+List-style:none;
+Padding:20px;
+Border: #ffffff solid 3px;
+Margin-bottom:5px;
+Background:#dcdcdc;
+}
+
+Footer{
+Padding:20px;
+Margin-top:20px;
+Background-color:#f5f5f5;
+Text-align: center;
+Border-top:#ffffff 3px solid;
+Color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
