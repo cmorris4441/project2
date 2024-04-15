@@ -32,7 +32,7 @@ Padding-right:20px;
 Min-height:400px;
 Text-align:center;
 Color:#ffffff;
-Background-image: url(./img/'pexels-pixabay-36717.jpg');
+Background-image: url('./img/pexels-pixabay-36717.jpg');
 Background-repeat:no-repeat;
 Background-position:center;
 Background-position:fixed;
